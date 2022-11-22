@@ -1,0 +1,29 @@
+.features .grayRec {
+    position: relative;
+    height: 542px;
+    left: 0px;
+    background: #f3f3f3;
+    border-radius: 42px;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+.features .grayRec img.features {
+    height: 559px;
+    position: absolute;
+    left: 50%;
+    bottom: 5%;
+    transform: translateX(-50%);
+}
+.features .ftrs-text {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #333333;
+    width: 290px;
+    text-align: center;
+    transform: translateY(-140%);
+    margin: auto;
+}
